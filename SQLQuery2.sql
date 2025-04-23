@@ -1,0 +1,5 @@
+CREATE DATABASE Comercio;
+CREATE TABLE Categorias (
+    Id INT PRIMARY KEY IDENTITY,
+    Nombre NVARCHAR(50)
+);
