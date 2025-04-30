@@ -29,5 +29,15 @@ namespace pryGimenezBD
             conector.Conectar(GrillaSql);
             
         }
+
+        private void GrillaSql_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void BtnAgregar_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
